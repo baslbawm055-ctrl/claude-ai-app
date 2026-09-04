@@ -138,7 +138,7 @@ fi
 
 # Collect all arguments for the java command, stracks://issues.gradle.org/browse/GRADLE-2320
 # and target arguments for running Gradle
-DEFAULT_JVM_OPTS='"-Xmx64m" "-Xms64m"'
+DEFAULT_JVM_OPTS='-Xmx64m -Xms64m'
 
 # Collect all arguments for the java command;
 #   * $DEFAULT_JVM_OPTS, $JAVA_OPTS, and $GRADLE_OPTS can contain fragments of
